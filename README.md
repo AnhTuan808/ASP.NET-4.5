@@ -1,7 +1,7 @@
-<h3>Resources for learning <a href="https://ngocminhtran.com/asp-net-4-5/">ASP.NET 4.5</a></h3> 
+<h3>Learning <a href="https://ngocminhtran.com/asp-net-4-5/">ASP.NET 4.5</a></h3> 
 <ul>
   <li>Read <a href="">docs</a> (VietNamese version)</li>
-  <li><a href="">Resources</a> (CSS files, images, etc.)</li>
+  <li><a href="https://github.com/TranNgocMinh/ASP.NET-4.5/tree/master/CSS">Resources</a> (CSS files, images, etc.)</li>
   <li>References:
       <ul>
         <li><a href="http://www.wrox.com/WileyCDA/WroxTitle/Beginning-ASP-NET-4-5-in-C-and-VB.productCd-1118311809.html">Beginning ASP.NET 4.5: in C# and VB</a></li>
