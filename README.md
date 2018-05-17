@@ -1,6 +1,6 @@
 <h3>Learning <a href="https://ngocminhtran.com/asp-net-4-5/">ASP.NET 4.5</a></h3> 
 <ul>
-  <li>Read <a href="">docs</a> (VietNamese version)</li>
+  <li>Read <a href="https://ngocminhtran.com/asp-net-4-5/">docs</a> (VietNamese version)</li>
   <li><a href="https://github.com/TranNgocMinh/ASP.NET-4.5/tree/master/CSS">Resources</a> (CSS files, images, etc.)</li>
   <li>References:
       <ul>
