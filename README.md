@@ -11,5 +11,12 @@
       </ul>
   </li>
 </ul>
-  
+## 2. Dự án kết thúc
+<h4>Dự án kết thúc là một website tham khảo từ tài nguyên học tập ở mục 1 với các thay đổi:</h4>
+1. Chủ đề, nội dung, hình ảnh mang tính cá nhân
+2. Nội dung các tập tin CSS (như DarkGrey.css hay MonoChrome.css) phải có sự thay đổi
+3. Cơ sở dữ liệu phải thay đổi
+4. Toàn bộ tài nguyên, mã nguồn dự án phải được tải lên repo tài khoản Github cá nhân
+5. Viết một tập tin Readme.md mô tả chi tiết về dự án
+6. Nộp đường liên kết Github dự án cho giảng viên khi kết thúc môn
   
