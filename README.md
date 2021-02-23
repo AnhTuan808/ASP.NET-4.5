@@ -2,7 +2,7 @@
 ## 1. Tài nguyên học tập
 <ul>
   <li><a href="https://github.com/TranNgocMinh/ASP.NET-4.5/blob/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%E1%BB%95ng%20quan.pdf">Hướng dẫn tổng quan</a></li>
-  <li><a href="https://ngocminhtran.com/asp-net-4-5/">Tài liệu</a></li>
+  <li><a href="https://ngocminhtran.com/asp-net-4-5/">Tài liệu (Tập trung từ chương I đến chương XII)</a></li>
   <li><a href="https://github.com/TranNgocMinh/ASP.NET-4.5/tree/master/Themes">Tài nguyên</a> (hình ảnh, tập tin CSS)</li>
   <li>Cập nhật với Visual Studio 2019 Community và Windows 10:
       <ul>
