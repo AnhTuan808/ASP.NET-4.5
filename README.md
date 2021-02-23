@@ -12,6 +12,7 @@
   </li>
 </ul>
 ## 2. Dự án kết thúc
+
 <h4>Dự án kết thúc là một website tham khảo từ tài nguyên học tập ở mục 1 với các thay đổi:</h4>
 1. Chủ đề, nội dung, hình ảnh mang tính cá nhân<br>
 2. Nội dung các tập tin CSS (như DarkGrey.css hay MonoChrome.css) phải có sự thay đổi<br>
